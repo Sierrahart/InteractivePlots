@@ -11,6 +11,8 @@ Use tutorial files in the 'COW Tutorial' Folder
 
 *Note: Import section of python script will require 1-2 minutes to run for first use*
 
+**Please be aware that this package contains the tools required to prepare interactive figures but it may not include all necessary tools for data preparation (data splits, scaling etc.)** 
+
 ## Supported HoloViews Functions (and Current Uses)
 [HoloViews Reference Gallery](https://holoviews.org/reference/index.html/ "HoloViews Reference Gallery")
 - hv.Scatter (bokeh backend) [HoloViews Scatter](https://holoviews.org/reference/elements/bokeh/Scatter.html/ "HoloViews Scatter")
