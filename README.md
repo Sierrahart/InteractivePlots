@@ -1,5 +1,5 @@
 # InteractivePlots
-Scripts for using HoloViews to generate interactive plots
+Scripts for using HoloViews (Bokeh backend) to generate interactive plots
 
 
 ## COW Tutoral/Getting Started:
